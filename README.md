@@ -40,3 +40,12 @@ To get started with this project, you will need Python and various libraries for
 - Web scraping libraries (e.g., Beautiful Soup, Scrapy)
 - Data analysis libraries (e.g., Pandas, NumPy)
 - Data visualization libraries (e.g., Matplotlib, Seaborn)
+
+### Data Collection
+Detailed instructions on how to scrape data and the specific data sources will be provided in the project code and documentation.
+
+### Exploratory Data Analysis
+Our exploratory data analysis will involve techniques to understand the data, identify trends, and answer questions related to Valorant VCT 2023.
+
+### License
+This project is licensed under the [Creative Commons Legal Code]. See the LICENSE file for more details.
